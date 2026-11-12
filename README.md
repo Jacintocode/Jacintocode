@@ -1,7 +1,7 @@
 - 👋 Hola, Me llamo Jacinto Coin denominado @Jacintocode
 - 👀 Me interesa aprender nuevas tecnologias y analizar codigos.
-- 🌱 Actualmente, estoy aprendiendos tecnologias como react y Goland
-- 💞️ Por el momento no estoy colaborando, pero si estoy a la disposicion de trabajar de manera colaborativa
+- 🌱 Actualmente, estoy aprendiendo la tecnologia JAVA
+- 💞️ Por el momento no estoy colaborando, pero si estoy a la disposicion de trabajar.
 - 📫 Me puedes contactar con el Whatsapp +505 87739843
 
 
